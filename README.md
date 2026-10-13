@@ -78,6 +78,5 @@ while learning:
 
 `[ ONLINE ]` — Learning something new every day.
 
-*Press ENTER to continue...*
 
 </div>
