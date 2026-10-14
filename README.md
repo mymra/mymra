@@ -8,11 +8,11 @@
 `BEGINNER DEVELOPER // LEVEL 01`
 
 ```text
-+--------------------------------+
-|  STATUS : LEARNING             |
++---------------------------------+
+|  STATUS : LEARNING              |
 |  MODE   : BUILDING              |
 |  GOAL   : BECOME A DEVELOPER    |
-+--------------------------------+
++---------------------------------+
 ```
 
 *Learning by doing. One line at a time.*
